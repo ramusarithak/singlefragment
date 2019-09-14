@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">singlefragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landscape_message">landscape_message</string>
+    <string name="portrait_message">portrsit_message</string>
+</resources>
